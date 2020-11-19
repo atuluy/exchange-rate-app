@@ -1,3 +1,5 @@
+// Using https://exchangeratesapi.io/
+
 // DOM Elements
 const currency1El = document.getElementById("currency1");
 const currency2El = document.getElementById("currency2");
